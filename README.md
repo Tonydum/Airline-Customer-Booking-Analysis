@@ -80,7 +80,6 @@ Optimize Flight Schedules: Offer discounts for evening and late-night flights to
 
 Power BI: For data analysis and visualization.
 DAX: For custom calculations and metrics in Power BI.
-Python: For preliminary data cleaning (optional if applicable).
 
 ## Project Files
 
