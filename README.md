@@ -57,16 +57,23 @@ Built interactive Power BI dashboards showing key insights and recommendations.
 ## Key Insights
 
 Lead Time: Bookings made within 1 week of the flight have a completion rate of 17%, indicating a focus on last-minute marketing could capture more bookings.
+
 Length of Stay: Longer stays (more than 1 year) have a 26% completion rate, suggesting extended stay promotions could increase bookings.
+
 Sales Channel: Internet bookings dominate at 91.86%, while Mobile has only 8.14% of completed bookings, highlighting an opportunity to improve the mobile experience.
+
 Flight Time: Morning flights (6:00 AM to 11:59 AM) have the highest booking volume, while evening flights have the lowest completion rate, showing potential for capacity adjustments and evening discounts.
+
 Service Choices: Customers who select all three services (extra luggage, seat, meals) have a 19% completion rate, compared to 11% for those who select none, suggesting that bundled service packages can improve commitment.
 
 ## Recommendations
 
 Target Last-Minute Bookers: Run last-minute booking campaigns for customers booking flights within 1 week.
+
 Optimize Mobile Experience: Improve the mobile app or website to increase mobile bookings.
+
 Incentivize Service Add-ons: Promote bundled services (extra luggage, preferred seat, in-flight meals) to increase booking completion.
+
 Optimize Flight Schedules: Offer discounts for evening and late-night flights to increase demand.
 
 ## Technologies Used
