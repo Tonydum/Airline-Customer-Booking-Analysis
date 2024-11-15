@@ -53,10 +53,15 @@ DAX: For custom calculations and metrics in Power BI.
 The dataset used in this analysis contains the following key columns:
 
 booking_complete: Whether the booking was completed or not.
+
 purchase_lead: The number of days between the booking and the flight.
+
 sales_channel: Whether the booking was made via Internet or Mobile.
+
 wants_extra_baggage, wants_preferred_seat, wants_in_flight_meals: Customer preferences for extra services.
+
 flight_hour: The time of day the flight is scheduled.
+
 length_of_stay: The duration of the trip.
 
 ## Analysis Process
