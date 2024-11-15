@@ -95,9 +95,5 @@ Optimize Flight Schedules: Offer discounts for evening and late-night flights to
 ## Project Files
 
 Airline_Customer_Booking_Analysis.pbix: The Power BI dashboard file containing all analysis and visualizations.
-Dataset.csv: The raw dataset (replace this with actual filename if shared).
+Dataset.csv: The raw dataset 
 README.md: This README file.
-
-## Conclusion
-
-By focusing on key areas such as lead time, customer preferences, and flight time, this analysis provides actionable insights that can help airlines optimize their operations and improve booking completion rates. The recommendations offered will help the airline increase customer engagement and overall profitability.
