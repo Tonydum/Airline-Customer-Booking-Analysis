@@ -20,6 +20,11 @@ Identify key factors influencing booking completion rates.
 Provide actionable insights to optimize operations.
 Recommend strategies to improve customer engagement and increase completed bookings.
 
+## Technologies Used
+
+Power BI: For data analysis and visualization.
+DAX: For custom calculations and metrics in Power BI.
+
 ## Dataset
 
 The dataset used in this analysis contains the following key columns:
@@ -64,8 +69,6 @@ Bookings made within 1 week of the flight have the highest completion rate of 17
 
 Longer stays (more than 1 year) show a 26% completion rate, while shorter stays (1 week or less) maintain a solid 19%, indicating that promoting extended stay packages and short-trip deals could effectively boost both segments.
 
-Sales Channel: Internet bookings dominate at 91.86%, while Mobile has only 8.14% of completed bookings, highlighting an opportunity to improve the mobile experience.
-
 ![image](https://github.com/user-attachments/assets/0707ec22-103e-4917-8d16-9675fc492135)
 
 Morning flights (6:00 AM to 11:59 AM) see the highest booking volume, while evening flights struggle with low completion rates, indicating an opportunity to increase morning flight capacity while offering discounts for evening flights to improve overall booking performance.
@@ -73,6 +76,10 @@ Morning flights (6:00 AM to 11:59 AM) see the highest booking volume, while even
 ![image](https://github.com/user-attachments/assets/e218a035-0d1d-42fb-a1be-8776c1d3cd67)
 
 Customers who select all three services (extra luggage, seat, meals) have the highest completion rate at 19%, compared to 11% for those who select none, suggesting that offering bundled service packages could encourage higher commitment and booking completions.
+
+### Dashboard
+
+![image](https://github.com/user-attachments/assets/cf79c9d8-62f1-447e-8006-aa2f72c1bb53)
 
 ## Recommendations
 
@@ -83,11 +90,6 @@ Optimize Mobile Experience: Improve the mobile app or website to increase mobile
 Incentivize Service Add-ons: Promote bundled services (extra luggage, preferred seat, in-flight meals) to increase booking completion.
 
 Optimize Flight Schedules: Offer discounts for evening and late-night flights to increase demand.
-
-## Technologies Used
-
-Power BI: For data analysis and visualization.
-DAX: For custom calculations and metrics in Power BI.
 
 ## Project Files
 
