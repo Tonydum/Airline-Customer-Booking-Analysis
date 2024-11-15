@@ -16,10 +16,12 @@ Average Lead Time: 85 days
 
 The objective of this project is to:
 
-- Analyze customer booking behaviors to understand patterns that affect booking completion rates.
-- Identify key factors influencing cancellations and abandonment during the booking process.
-- Provide actionable insights into optimizing booking flows, identifying high-impact areas for process improvement.
-- Recommend targeted marketing strategies and promotional offers to increase booking conversions, especially during high-demand periods.
+- Identify key factors influencing booking completion, including the impact of sales channels, customer preferences (e.g., baggage, meals), and booking lead times.
+- Analyze whether customers who book earlier are more likely to complete their bookings.
+- Provide insights into customer preferences that drive booking completions, such as extra baggage, preferred seats, and meal choices.
+- Evaluate the effect of the sales channel (Internet vs. Agent) on booking completion rates and add-on service purchases.
+- Determine if specific flight times, routes, or destinations are associated with incomplete bookings.
+- Understand how the length of stay or trip type (RoundTrip vs. One-Way) impacts booking completion rates.
 
 ## Technologies Used
 
