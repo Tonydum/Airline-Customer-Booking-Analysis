@@ -16,9 +16,10 @@ Average Lead Time: 85 days
 
 The objective of this project is to:
 
-Identify key factors influencing booking completion rates.
-Provide actionable insights to optimize operations.
-Recommend strategies to improve customer engagement and increase completed bookings.
+- Analyze customer booking behaviors to understand patterns that affect booking completion rates.
+- Identify key factors influencing cancellations and abandonment during the booking process.
+- Provide actionable insights into optimizing booking flows, identifying high-impact areas for process improvement.
+- Recommend targeted marketing strategies and promotional offers to increase booking conversions, especially during high-demand periods.
 
 ## Technologies Used
 
