@@ -23,6 +23,7 @@ Recommend strategies to improve customer engagement and increase completed booki
 ## Technologies Used
 
 Power BI: For data analysis and visualization.
+
 DAX: For custom calculations and metrics in Power BI.
 
 ## Dataset
