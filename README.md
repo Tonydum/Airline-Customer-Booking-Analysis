@@ -6,11 +6,29 @@ This project analyzes booking behavior from an airline’s customer dataset to u
 
 ## Key Metrics Analyzed
 
-Total Bookings: 50,000
-Completed Bookings: 7,000
-Non-Completed Bookings: 43,000
-Booking Completion Rate: 15%
-Average Lead Time: 85 days
+1. Booking Completion Rate
+
+- Percentage of bookings completed vs. abandoned, based on customer actions throughout the booking process.
+
+2. Booking Lead Time
+
+- Number of days between booking initiation and flight departure, and its impact on booking completion.
+
+3. Customer Preferences
+
+- Correlation between preferences (extra baggage, preferred seat, in-flight meals) and the likelihood of completing a booking.
+
+4. Sales Channel Comparison
+
+- Comparison of booking completion rates between customers using different sales channels (Internet vs. other channels such as agents).
+
+5. Booking Time and Route Impact
+
+- Identification of peak booking times (e.g., weekends, mornings, evenings) and routes or destinations with high rates of incomplete bookings.
+
+6. Trip Type and Length of Stay
+
+- Analysis of how trip type (RoundTrip vs. One-Way) and the length of stay affect booking completion.
 
 ## Objective
 
