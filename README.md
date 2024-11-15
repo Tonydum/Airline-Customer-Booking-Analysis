@@ -4,6 +4,17 @@
 
 This project analyzes booking behavior from an airline’s customer dataset to uncover key insights into booking completion rates, customer preferences, and flight schedules. The dataset contains 50,000 bookings, of which 7,000 are completed and 43,000 are not, resulting in a 15% booking completion rate. The analysis aims to identify factors that influence booking behavior and provide recommendations to improve the airline's operational efficiency and customer engagement.
 
+## Objective
+
+The objective of this project is to:
+
+- Identify key factors influencing booking completion, including the impact of sales channels, customer preferences (e.g., baggage, meals), and booking lead times.
+- Analyze whether customers who book earlier are more likely to complete their bookings.
+- Provide insights into customer preferences that drive booking completions, such as extra baggage, preferred seats, and meal choices.
+- Evaluate the effect of the sales channel (Internet vs. Agent) on booking completion rates and add-on service purchases.
+- Determine if specific flight times, routes, or destinations are associated with incomplete bookings.
+- Understand how the length of stay or trip type (RoundTrip vs. One-Way) impacts booking completion rates.
+
 ## Key Metrics Analyzed
 
 1. Booking Completion Rate
@@ -30,16 +41,6 @@ This project analyzes booking behavior from an airline’s customer dataset to u
 
 - Analysis of how trip type (RoundTrip vs. One-Way) and the length of stay affect booking completion.
 
-## Objective
-
-The objective of this project is to:
-
-- Identify key factors influencing booking completion, including the impact of sales channels, customer preferences (e.g., baggage, meals), and booking lead times.
-- Analyze whether customers who book earlier are more likely to complete their bookings.
-- Provide insights into customer preferences that drive booking completions, such as extra baggage, preferred seats, and meal choices.
-- Evaluate the effect of the sales channel (Internet vs. Agent) on booking completion rates and add-on service purchases.
-- Determine if specific flight times, routes, or destinations are associated with incomplete bookings.
-- Understand how the length of stay or trip type (RoundTrip vs. One-Way) impacts booking completion rates.
 
 ## Technologies Used
 
