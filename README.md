@@ -91,9 +91,3 @@ Optimize Mobile Experience: Improve the mobile app or website to increase mobile
 Incentivize Service Add-ons: Promote bundled services (extra luggage, preferred seat, in-flight meals) to increase booking completion.
 
 Optimize Flight Schedules: Offer discounts for evening and late-night flights to increase demand.
-
-## Project Files
-
-Airline_Customer_Booking_Analysis.pbix: The Power BI dashboard file containing all analysis and visualizations.
-Dataset.csv: The raw dataset 
-README.md: This README file.
