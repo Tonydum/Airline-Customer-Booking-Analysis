@@ -37,11 +37,6 @@ The objective of this project is to:
 
 - Identification of peak booking times (e.g., weekends, mornings, evenings) and routes or destinations with high rates of incomplete bookings.
 
-6. Trip Type and Length of Stay
-
-- Analysis of how trip type (RoundTrip vs. One-Way) and the length of stay affect booking completion.
-
-
 ## Technologies Used
 
 Power BI: For data analysis and visualization.
@@ -76,19 +71,45 @@ Categorized length of stay (short, medium, long stays).
 
 ### DAX Calculations: 
 
-Created custom measures in Power BI for:
+Created custom measures & calculated columns in Power BI for:
 
-Total Bookings:
---- Total Booking = COUNTROWS(customer_booking) ---
-
-
-
-Completed Bookings
-Booking Completion Rate
-Service Preference Impact (baggage, seat, meals).
-
-
-
+```dax
+Total Booking = COUNTROWS(customer_booking)
+```
+```dax
+Completed Booking = CALCULATE([Total Booking], customer_booking[booking_complete] = 1)
+```
+```dax
+Booking Completion Rate = customer_booking[Completed Booking] / customer_booking[Total Booking]
+```
+```dax
+Average Lead Time = 
+VAR averagetime = AVERAGE(customer_booking[purchase_lead])
+RETURN CONCATENATE(ROUND(averagetime, 0), " days")
+```
+```dax
+purchase_lead_time_category = 
+SWITCH(
+    TRUE(),
+    customer_booking[purchase_lead] <= 7, "1 week or less",
+    customer_booking[purchase_lead] > 7 && customer_booking[purchase_lead] <= 30, "1 week to 1 month",
+    customer_booking[purchase_lead] > 30 && customer_booking[purchase_lead] <= 90, "1 month to 3 months",
+    customer_booking[purchase_lead] > 90 && customer_booking[purchase_lead] <= 180, "3 months to 6 months",
+    customer_booking[purchase_lead] > 180 && customer_booking[purchase_lead] <= 365, "6 months to 1 year",
+    customer_booking[purchase_lead] > 365, "More than 1 year"
+)
+```
+```dax
+flight_time_category = 
+SWITCH(
+    TRUE(),
+    customer_booking[flight_hour] >= 0 && customer_booking[flight_hour] < 6, "Late Night",
+    customer_booking[flight_hour] >= 6 && customer_booking[flight_hour] < 12, "Morning",
+    customer_booking[flight_hour] >= 12 && customer_booking[flight_hour] < 18, "Afternoon",
+    customer_booking[flight_hour] >= 18 && customer_booking[flight_hour] <= 23, "Evening",
+    "Undefined"
+)
+```
 ### Visualization: 
 
 Built interactive Power BI dashboards showing key insights and recommendations.
