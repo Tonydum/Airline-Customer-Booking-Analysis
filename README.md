@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Executive Summary](#executive-summary)
 - [Objective](#objective)
 - [Key Metrics Analyzed](#key-metrics-analyzed)
 - [Technologies Used](#technologies-used)
@@ -19,6 +20,12 @@
 ## Project Overview
 
 This project analyzes booking behavior from an airline’s customer dataset to uncover key insights into booking completion rates, customer preferences, and flight schedules. The dataset contains 50,000 bookings, of which 7,000 are completed and 43,000 are not, resulting in a 15% booking completion rate. The analysis aims to identify factors that influence booking behavior and provide recommendations to improve the airline's operational efficiency and customer engagement.
+
+## Executive Summary
+
+The Airline Customer Booking Analysis project aimed to uncover key factors influencing booking completion rates and provide actionable insights to improve customer engagement and airline operations. By analyzing 50,000 customer bookings, it was found that only 15% were successfully completed. The analysis identified that bookings made closer to flight dates had higher completion rates, while preferences such as extra baggage, seat selection, and meal options significantly influenced successful bookings.
+
+The analysis also revealed disparities in booking completion based on sales channels, with online bookings performing differently than agent-assisted bookings. Recommendations included targeting last-minute bookings with marketing campaigns, optimizing the booking experience for mobile users, and promoting bundled services to improve booking completion rates. These findings aimed to enhance customer engagement and optimize booking processes for increased revenue.
 
 ## Objective
 
