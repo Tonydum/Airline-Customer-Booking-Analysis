@@ -79,7 +79,7 @@ Categorized length of stay (short, medium, long stays).
 Created custom measures in Power BI for:
 
 Total Bookings:
---- Total Booking = COUNTROWS(customer_booking)
+--- Total Booking = COUNTROWS(customer_booking) ---
 
 
 
