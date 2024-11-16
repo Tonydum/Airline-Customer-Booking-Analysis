@@ -1,5 +1,9 @@
 # Airline Customer Booking Analysis Project
 
+# Table of Contents
+
+[Project Overview] (Project Overview)
+
 ## Project Overview
 
 This project analyzes booking behavior from an airline’s customer dataset to uncover key insights into booking completion rates, customer preferences, and flight schedules. The dataset contains 50,000 bookings, of which 7,000 are completed and 43,000 are not, resulting in a 15% booking completion rate. The analysis aims to identify factors that influence booking behavior and provide recommendations to improve the airline's operational efficiency and customer engagement.
