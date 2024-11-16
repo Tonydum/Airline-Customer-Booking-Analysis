@@ -78,10 +78,16 @@ Categorized length of stay (short, medium, long stays).
 
 Created custom measures in Power BI for:
 
-Total Bookings
+Total Bookings:
+--- Total Booking = COUNTROWS(customer_booking)
+
+
+
 Completed Bookings
 Booking Completion Rate
 Service Preference Impact (baggage, seat, meals).
+
+
 
 ### Visualization: 
 
