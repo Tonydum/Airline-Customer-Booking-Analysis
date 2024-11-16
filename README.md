@@ -2,7 +2,14 @@
 
 # Table of Contents
 
-- [Project Overview](## Project Overview)
+# Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
 
 ## Project Overview
 
