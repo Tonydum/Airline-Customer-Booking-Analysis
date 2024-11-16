@@ -1,16 +1,20 @@
 # Airline Customer Booking Analysis Project
 
-# Table of Contents
+## Table of Contents
 
-# Table of Contents
-- [Project Overview](#project overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-
+- [Project Overview](#project-overview)
+- [Objective](#objective)
+- [Key Metrics Analyzed](#key-metrics-analyzed)
+- [Technologies Used](#technologies-used)
+- [Dataset](#dataset)
+- [Analysis Process](#analysis-process)
+  - [Data Cleaning](#data-cleaning)
+  - [Data Transformation](#data-transformation)
+  - [DAX Calculations](#dax-calculations)
+- [Visualization](#visualization)
+- [Key Insights](#key-insights)
+- [Dashboard](#dashboard)
+- [Recommendations](#recommendations)
 
 ## Project Overview
 
