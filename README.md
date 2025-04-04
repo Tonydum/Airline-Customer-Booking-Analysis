@@ -14,7 +14,6 @@
   - [DAX Calculations](#dax-calculations)
 - [Visualization](#visualization)
 - [Key Insights](#key-insights)
-- [Dashboard](#dashboard)
 - [Recommendations](#recommendations)
 
 ## Project Background
@@ -28,6 +27,8 @@ Using a dataset containing 50,000 customer booking records, the project analyzed
 The Airline Customer Booking Analysis project aimed to uncover key factors influencing booking completion rates and provide actionable insights to improve customer engagement and airline operations. By analyzing 50,000 customer bookings, it was found that only 15% were successfully completed. The analysis identified that bookings made closer to flight dates had higher completion rates, while preferences such as extra baggage, seat selection, and meal options significantly influenced successful bookings.
 
 The analysis also revealed disparities in booking completion based on sales channels, with online bookings performing differently than agent-assisted bookings. Recommendations included targeting last-minute bookings with marketing campaigns, optimizing the booking experience for mobile users, and promoting bundled services to improve booking completion rates. These findings aimed to enhance customer engagement and optimize booking processes for increased revenue.
+
+![image](https://github.com/user-attachments/assets/cf79c9d8-62f1-447e-8006-aa2f72c1bb53)
 
 ## Objective
 
@@ -156,10 +157,6 @@ Morning flights (6:00 AM to 11:59 AM) see the highest booking volume, while even
 ![image](https://github.com/user-attachments/assets/e218a035-0d1d-42fb-a1be-8776c1d3cd67)
 
 Customers who select all three services (extra luggage, seat, meals) have the highest completion rate at 19%, compared to 11% for those who select none, suggesting that offering bundled service packages could encourage higher commitment and booking completions.
-
-### Dashboard
-
-![image](https://github.com/user-attachments/assets/cf79c9d8-62f1-447e-8006-aa2f72c1bb53)
 
 ## Recommendations
 
