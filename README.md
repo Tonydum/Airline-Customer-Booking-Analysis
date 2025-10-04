@@ -165,7 +165,7 @@ Clone or download the repository.
 
 Open Airline-Booking-Analysis.pbix in Power BI Desktop.
 
-All necessary data (CSV) is included — no external connections needed.
+All necessary data (CSV) is included - no external connections needed.
 
 ## 📌 Next Steps
 
