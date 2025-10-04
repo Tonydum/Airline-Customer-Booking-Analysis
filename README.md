@@ -149,8 +149,6 @@ Showed that business class drives disproportionate revenue, important for pricin
 
 Identified mobile bookings as a fast-growing channel, guiding digital investment priorities.
 
-Highlighted key routes and destinations that drive most revenue.
-
 ## 📝 Recommendations
 
 Introduce flexible cancellation policies or fees for last-minute bookings to reduce no-show losses.
