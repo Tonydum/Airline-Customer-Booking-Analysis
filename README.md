@@ -14,8 +14,6 @@
 
 ---
 
-https://app.powerbi.com/view?r=eyJrIjoiMWFjMGRlZDYtMjUxZi00M2FhLTg3MTctY2MxNTk5ZjRkYjUwIiwidCI6IjcxZmIyM2QxLWU1NzAtNGJiOS1iYTQzLWI0ZTllYmI4NDhlZiJ9
-
 ## 📌 Project Overview  
 This project analyzes airline booking data to identify customer booking behavior, revenue trends, and areas for operational improvement. 
 The dashboard helps airline managers understand how customers book flights (timing, channel, class), and where revenue is gained or lost.  
