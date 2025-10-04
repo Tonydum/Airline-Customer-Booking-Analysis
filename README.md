@@ -50,7 +50,8 @@ Created calculated columns and lookup tables for Booking Class, Channel, Destina
 
 This allowed the data to be treated like a fact table with supporting dimensions, making it easier to build measures and visuals.
 
-*(Insert schema diagram screenshot here)*  
+<img width="1166" height="717" alt="image" src="https://github.com/user-attachments/assets/3b76f46f-eaa8-4bce-a482-03667bc3d922" />
+
 
 ---
 
@@ -60,8 +61,6 @@ Key metrics created in Power BI using DAX:
 - **Total Bookings** = COUNTROWS(fact_bookings)  
 - **Avg Lead Time** = AVERAGE(fact_bookings[Lead Time])  
 - **Cancellation Rate** = (% of canceled bookings)  
-- **Revenue by Class** = Breakdown by Economy, Business, First  
-- **Revenue by Channel** = Breakdown by Web, Mobile, Agent  
 
 ### Example DAX:  
 ```DAX
