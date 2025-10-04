@@ -138,6 +138,9 @@ Insight: Customers who buy all add-ons (extra luggage, seat, meals) complete boo
 
 ![image](https://github.com/user-attachments/assets/e218a035-0d1d-42fb-a1be-8776c1d3cd67)
 
+![image](https://github.com/user-attachments/assets/cf79c9d8-62f1-447e-8006-aa2f72c1bb53)
+
+
 
 ## 💡 Business Impact
 
